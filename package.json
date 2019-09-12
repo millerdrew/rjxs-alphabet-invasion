@@ -4,5 +4,9 @@
   "private": true,
   "dependencies": {
     "rxjs": "6.4.*"
+  },
+  "devDependencies": {
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
   }
 }
